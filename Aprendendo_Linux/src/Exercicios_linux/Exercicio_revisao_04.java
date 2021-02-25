@@ -2,9 +2,9 @@ package Exercicios_linux;
 /*
 	Autor: Fabiano Alves Santos
 	Email: fasnaweb2020@gmail.com
-	Data: 19/02/2021 
+	Data: 25/02/2021 
 */
-public class Exercicio_04 {
+public class Exercicio_revisao_04 {
 
 	public static void main(String[] args) {
 /*
