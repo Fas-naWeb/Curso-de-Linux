@@ -52,7 +52,7 @@ public class Exercicio_revisao_03 {
    15) Exiba a arquitetura do kernel
    R: arch
    
-   16) Adiciona a saida do comando anterior no arquivo minhamáquina.txt
+   16) Adiciona a saida do comando anterior no arquivo minhamáquina.txt.
    R: arch >> minhamáquina.txt
    
    
