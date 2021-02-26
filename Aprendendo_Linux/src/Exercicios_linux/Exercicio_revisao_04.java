@@ -62,7 +62,7 @@ public class Exercicio_revisao_04 {
    R:clear
    
 17) Imprima o arquivo aularedes.txt com paginação no terminal
-   R:less aularedes.txt more
+   R:less aularedes.txt 
  */
 
 	}
