@@ -62,7 +62,7 @@ public class Exercicio_revisao_06 {
 		       passo 3:cat compactar.txt
 		       
 		 16) Execute o comando int 0 para desligar o computador
-		     R:int 0
+		     R:int 0.
 		*/
 
 	}
