@@ -8,7 +8,7 @@ public class ShellScript {
 /*
    OQUE É SHELL SCRIPT ?
    Shell em computação é um interface de usuário para acessar
-   os serviços de um sistema operacional
+   os serviços de um sistema operacional.
    
    Script é uma linguagem de programação que executa no sistema em
    tempo de execução, muito utilizada para automação.
