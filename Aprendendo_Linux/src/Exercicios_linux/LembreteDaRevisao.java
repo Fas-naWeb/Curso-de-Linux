@@ -24,7 +24,7 @@ PARTE 2 ------------------------------------------------------------------------
 
 USANDO O NANO TEMOS AS SEGUINTES TECLAS DE ATALHO
 
-CRTL+ G → ou F1 Obtem ajuda no nano
+CRTL+ G → ou F1 Obtem ajuda no nano.
 CRTL+ X → sai do arquivo de ajuda do nano
 CRTL+ J  → vai justificar o texto no nano
 CRTL + U →  desfas as modificações e como o control z do windows
