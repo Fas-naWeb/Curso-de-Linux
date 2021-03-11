@@ -11,7 +11,7 @@ public class Exercicio_revisao_01 {
 	 *  
 	 *  2) Crie uma pasta de nome Ubuntu dentro da pasta Documentos.
 	 *     R: Passo 1: ls
-	 *        Passo 2: cd Documentos
+	 *        Passo 2: cd Documentos.
 	 *        Passo 3: mkdir Ubuntu
 	 *        Passo 4: ls
 	 *       
