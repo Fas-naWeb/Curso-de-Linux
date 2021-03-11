@@ -65,9 +65,39 @@ public class ShellScript {
    -n Sem subistituição do arquivo
    -b Subistitua o arquivo
    
+   COPIAR ARQUIVOS
+   Permite copiar arquivos para outro local
    
+   cp -i nomeFile1.txt /home/fabiano/eclipse
    
+   CRIANDO DIRETÒRIOS
    
+   mkdir nomeFile -> Cria diretórios
+   
+   rm nomeFile1.txt -> Remove arquivos
+   
+   rm -rf remove arquivos e diretoris sem fazer perguntas 
+   
+   PROCURA POR ARQUIVOS
+   
+   find nomeFile1.txt -> prrocura pelo arquivo nomeFile1.txt
+   
+   AJUDA SOBRE O COMANDO
+   
+   man ls
+   man find 
+   man ....
+   
+   COMPARAR DIFERENÇA ENTRE ARQUIVOS
+   diff nomeFile1.txt nomeFile2.txt
+   
+   REMOVE DIRETÒRIOS
+   
+   rmdir nomeFile1 remove diretório vazio
+   
+   rm -rf nomeFile2 remove diretório que contem informações
+   
+   env mostra todas variáveis de ambiente
    
    
    
