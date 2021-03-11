@@ -2,7 +2,7 @@ package Exercicios_linux;
 /*
 	Autor:Fabiano Alves Santos
 	Email:fasnaweb2020@gmail.com
-	Data: 13/02/2021 
+	Data: 11/03/2021 
 */
 public class ShellScript {
 /*
