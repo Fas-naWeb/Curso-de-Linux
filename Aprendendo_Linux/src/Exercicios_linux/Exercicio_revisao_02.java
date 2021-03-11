@@ -9,7 +9,7 @@ public class Exercicio_revisao_02 {
     Exercícios de Revisão
 	1) Crie uma pasta de nome Exercícios e Acesse a mesma
 	   R:Passo 1:CRTL + ALT + T -> para abrir o terminal
-	     Passo 2:ls -> para listar os arquivos do diretorio que você se encontra
+	     Passo 2:ls -> para listar os arquivos do diretorio que você se encontra.
 	     Passo 3:mkdir Exercicios -> cria a pasta Exercicios
 	     Passo 4:ls -> lista os arquivos no diretório corrente
 	     Passo 5:cd Exercicios -> entra no diretório Exercicios
