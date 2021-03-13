@@ -2,7 +2,7 @@ package Exercicios_linux;
 /*
 	Autor:Fabiano Alves Santos
 	Email:fasnaweb2020@gmail.com
-	Data: 11/03/2021 
+	Data: 13/03/2021 
 */
 public class SobreEstruturaDeDados {
 /*
@@ -86,6 +86,39 @@ public class SobreEstruturaDeDados {
     
    Fifo -> Primeiro que entra é o primeiro que sai,apreseta o seguinte critério:O primeiro elemento
    a ser retirado é o primeiro que foi inserido.
+   
+   FILAS
+   A estrutura do tipo fila admite a remoção de elementos e inserção de novos sujeita a seguinte regra de 
+   operação.
+   
+   O elemento removido é o que esta na estrutura ha mais tempo ou seja,ou seja o primeiro objeto
+   inserido na fila é também o primeiro a ser remiovido seguindo o conceito fifo.
+   
+   ARVORE
+   É uma estrutura de dados que organiza seus elementos de forma hierarquica,onde existe um elemento
+   que fica no topo da arvore,chamado de raiz e existem os elementos subordinados a ele,que são chamados 
+   de nó ou falhas.
+   
+   TABELA DE ESPALHAMENTO OU HASH
+   Uma tabela hash,de dispersção ou espalhamento é uma estrutura de dados especial,que associa chaves
+   de pesquisa a valores.
+   
+   POR QUE ESPALHAR
+   A tabela hash permite a associação de "valores" a "chaves".
+   
+   Valores:é a posição ou indice onde o elemento se encontra
+   
+   Chave:parte da informação que compoe o elemento a ser manipulado.
+   
+   GRAFO
+   Grafos são estruturas que permitem programar a relação entre objetos
+   
+   Os objetos são vertices ou nós do grafo.
+    
+   Os relacionamentos são arestas
+   
+   
+   
  */
 	
 }
