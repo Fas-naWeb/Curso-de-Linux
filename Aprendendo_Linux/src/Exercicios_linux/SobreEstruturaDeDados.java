@@ -4,7 +4,7 @@ package Exercicios_linux;
 	Email:fasnaweb2020@gmail.com
 	Data: 11/03/2021 
 */
-public class EstruturaDeDados {
+public class SobreEstruturaDeDados {
 /*
    O QUE É ESTRUTURA DE DADOS
    Estrutura de dados é uma estrutura organizada de dados na memória do 
