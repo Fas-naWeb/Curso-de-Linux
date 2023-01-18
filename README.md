@@ -10,7 +10,7 @@
 <ol>
   <li>
    <a href = "https://github.com/Fas-naWeb/Curso-de-Linux---Concluido/blob/main/Aprendendo_Linux/src/Exercicios_linux/Exercicio_revisao_01.java">
-   Sobre Pastas e arquivos :Criar - mover - renomear - renomear - copiar - excluir e outros ...
+   Sobre Pastas e arquivos: Criar - mover - renomear  - copiar - excluir e outros ...
    </a>
   </li> 
   <br>
