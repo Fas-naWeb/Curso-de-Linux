@@ -3,7 +3,7 @@
 
 <p>&nbsp&nbsp&nbsp Este repositorio tem por intuito, servir de pesquisa para quando ouver necessidade de relembrar alguns conceitos de Linux.</p>
  
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=INDICE&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge](http://img.shields.io/static/v1?label=STATUS-DO-CURSO&message=%20CONCLUIDO&color=GREEN&style=for-the-badge)
 
 # Índice 
 
