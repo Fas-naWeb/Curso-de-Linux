@@ -5,3 +5,8 @@
  
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=INDICE&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+# Índice 
+
+<ol>
+  <li><a  href="https://github.com/Fas-naWeb/Curso-de-Linux---Concluido/blob/main/Aprendendo_Linux/src/Exercicios_linux/Exercicio_revisao_01.java">Sobre Pastas e arquivos : Criar - mover - renomear - copiar - excluir e outros ...<a/></li>
+ </ol>
